@@ -17,6 +17,8 @@ API en Python (FastAPI) que predice el nivel de riesgo de una zona de Madrid (ve
 
 Python · FastAPI · scikit-learn · pandas · NumPy
 
+Cliente: app Android en Kotlin (Google Maps y Retrofit), que irá en su propio repositorio.
+
 ## Cómo ejecutarlo
 
 ```bash
