@@ -122,4 +122,4 @@ La documentación interactiva queda en <http://127.0.0.1:8000/docs>. Si `modelo.
 
 Desarrollado por **Cristian Corroto** como parte de su proyecto final de DAM, con apoyo intensivo de IA, sobre todo en esta parte en Python, que no formaba parte del ciclo. Yo definí qué debía predecir, escribí las reglas de los datos simulados y probé la API con la app.
 
-[App Android](https://github.com/cristian-corroto/saferoute-ai-android) · [Descargar el APK](https://saferouteai-app.netlify.app/) · [Portfolio](https://cristian-corroto.netlify.app) · [LinkedIn](https://www.linkedin.com/in/cristian-corroto)
+[App Android](https://github.com/cristian-corroto/saferoute-ai-android) · [Descargar el APK](https://saferouteai-app.pages.dev/) · [Portfolio](https://cristian-corroto.pages.dev) · [LinkedIn](https://www.linkedin.com/in/cristian-corroto)
